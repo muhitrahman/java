@@ -1,4 +1,4 @@
 # java
 
 
-<img src="Capture.png">
+<img src="Capture.PNG">
